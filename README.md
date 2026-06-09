@@ -1,4 +1,6 @@
-# Revision-de-la-literatura
-En este repositorio se puede encontrar los codigos utilizados en la revision de la literatura
-Graficas: https://colab.research.google.com/drive/1wiMbyEVuQZkzjJc3ms2Cv6cU6DuNd31H?usp=sharing
+# Revisión de literatura
+
+En este repositorio se encuentra la información de los artículos utilizados para realizar la revisión de literatura. También se incluyen las gráficas generadas a partir de esta información, elaboradas originalmente en español y posteriormente traducidas al inglés.
+
+De igual forma, el repositorio contiene el diagrama PRISMA de la revisión en sus dos versiones: español e inglés.
 
